@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import re
+
+    template = r'are you ready??.?.?'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12907#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 13 Aug 2021 06:34:57 UTC
+record: -1
